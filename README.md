@@ -1,1 +1,1 @@
-Yieno Studio installers (used by the app auto-updater).
+﻿Yieno Studio installers
